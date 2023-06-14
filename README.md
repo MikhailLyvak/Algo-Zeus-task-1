@@ -1,7 +1,7 @@
 # ALGO-ZEUS Data collector
 There is a data collector script with user interface to get real data from Binance API.
 
-## 🎥 Video PRESENTATION ->   [Click me!](https://youtu.be/6RyPXR9MXGg)
+## 🎥 Video PRESENTATION ->   [Click me!](https://www.loom.com/share/757bbb95742646268c05cff0253ff520?sid=37596132-dbc8-4618-a206-4e457e78a1b5)
 
 ## 💼 Installing using GIT
 Python3 must be already installed
